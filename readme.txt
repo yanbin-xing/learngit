@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files infinitly.
 Change at master branch.
 Update in the branch1.
+--no-ff merge.
